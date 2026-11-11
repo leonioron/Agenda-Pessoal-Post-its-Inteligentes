@@ -1,0 +1,6 @@
+{
+  "name": "Agenda Pessoal & Post-its Inteligentes",
+  "description": "Organizador de tarefas do dia a dia com quadro de post-its, agenda semanal e sistema inteligente de lembretes recorrentes pós-conclusão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
